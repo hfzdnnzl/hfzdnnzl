@@ -9,6 +9,7 @@
 
 ### 📊 Data Dashboard Projects
 - [Malaysia 2018 Election Dashboard (R Shiny)](https://hfzdnnzl.shinyapps.io/election_2018_dashboard/)  – An interactive dashboard visualizing key insights from the 2018 Malaysian election
+- [Exploratory Data Analysis Dashboard (R Shiny)](https://technaanalytics.shinyapps.io/data_explorer/) – A versatile dashboard for dynamic exploratory data analysis, providing quick insights from various datasets.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hfzdnnzl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfzdnnzl&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
