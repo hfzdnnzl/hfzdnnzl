@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there I'm Hafiz a full-stack software engineer 👋
+
+## Front-end projects
+- [Love Language Test (React JS)](https://hfzdnnzl.github.io/love-language-test/)
+- [Digital Wedding Card (Next JS)](https://www.kad-undangan.my/0003/yor-loid)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hfzdnnzl&show_icons=true)
 
