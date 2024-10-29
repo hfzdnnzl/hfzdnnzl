@@ -10,8 +10,8 @@
 ### 📊 Data Dashboard Projects
 - [Malaysia 2018 Election Dashboard (R Shiny)](https://hfzdnnzl.shinyapps.io/election_2018_dashboard/)  – An interactive dashboard visualizing key insights from the 2018 Malaysian election
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hfzdnnzl&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfzdnnzl&layout=compact)]
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hfzdnnzl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfzdnnzl&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/hafizuddin-nazlee/)!
 
