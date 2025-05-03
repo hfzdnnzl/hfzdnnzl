@@ -5,7 +5,7 @@
 
 ### 🌐 Front-End Projects
 - [Love Language Test (React JS)](https://hfzdnnzl.github.io/love-language-test/)  – A fun and interactive quiz to discover your love language
-- [Digital Wedding Card (Next JS)](https://www.kad-undangan.my/0003/yor-loid)  – Customizable and elegant digital invitations
+- [Digital Wedding Card (Next JS)](https://www.kad-undangan.my/sample/0001/)  – Customizable and elegant digital invitations
 
 ### 📊 Data Dashboard Projects
 - [Malaysia 2018 Election Dashboard (R Shiny)](https://hfzdnnzl.shinyapps.io/election_2018_dashboard/)  – An interactive dashboard visualizing key insights from the 2018 Malaysian election
